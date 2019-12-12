@@ -1,0 +1,179 @@
+#ejercicio01
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[10])  #mostrar "s"
+
+#ejercicio02
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[20])  #mostrar "t"
+
+#ejercicio03
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[30])  #mostrar "a"
+
+#ejercicio04
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[40])  #mostrar "n"
+
+#ejercicio05
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[5])  #mostrar "l"
+
+#ejercicio06
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[15])  #mostrar "e"
+
+#ejercicio07
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[25])  #mostrar "r"
+
+#ejercicio08
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[35])  #mostrar "e"
+
+#ejercicio09
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-7])  #mostrar " "
+
+#ejercicio10
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-16])  #mostrar "r"
+
+#ejercicio11
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-39])  #mostrar "s"
+
+#ejercicio12
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-26])  #mostrar "e"
+
+#ejercicio13
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[22])  #mostrar "d"
+
+#ejercicio14
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[0])  #mostrar "l"
+
+#ejercicio15
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-16])  #mostrar "r"
+
+#ejercicio16
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-26])  #mostrar "e"
+
+#ejercicio17
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[7])  #mostrar "n"
+
+#ejercicio18
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[18])  #mostrar "e"
+
+#ejercicio19
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[4])  #mostrar "a"
+
+#ejercicio20
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-15])  #mostrar " "
+
+#ejercicio21
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-2])  #mostrar "e"
+
+#ejercicio22
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-39])  #mostrar "s"
+
+#ejercicio23
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[33])  #mostrar "l"
+
+#ejercicio24
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-33])  #mostrar "m"
+
+#ejercicio25
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[19])  #mostrar "s"
+
+#ejercicio26
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[-19])  #mostrar "d"
+
+#ejercicio27
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[28])  #mostrar "a"
+
+#ejercicio28
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[34])  #mostrar " "
+
+#ejercicio29
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[22])  #mostrar "d"
+
+#ejercicio30
+#              10        20        30        40
+#    01234567890123456789012345678901234567890
+msg="los alunmos deven estudiar para el examen"
+print(msg[14])  #mostrar "v"
